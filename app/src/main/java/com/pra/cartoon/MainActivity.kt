@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
 
         animate_box_button.setOnClickListener { animateModel("Character|Boxing") }
         animate_idle_button.setOnClickListener { animateModel("Character|Idle") }
-        animate_kick_button.setOnClickListener { animateModel("Character|kick") }
+       // animate_kick_button.setOnClickListener { animateModel("Character|kick") }
 
     }
 
